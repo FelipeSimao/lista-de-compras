@@ -13,3 +13,10 @@ function addItem(item){
     list.innerHTML += `<li>${item}</li>`
 
 }
+
+
+
+
+
+
+
